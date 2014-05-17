@@ -1,6 +1,6 @@
 // ArduinoISP version 01r1x
 // Copyright (c) 2008-2011 Randall Bohn. Modified 2014 by MrCullDog
-// BSD LICENCE ( http://www.opensource.org/licenses/bsd-license.php)
+// BSD LICENCE http://www.opensource.org/licenses/bsd-license.php
 //
 // This sketch turns the Arduino into a AVR/PICAXE ISP
 // using the following arduino pins:
