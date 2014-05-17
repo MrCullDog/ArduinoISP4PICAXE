@@ -15,7 +15,6 @@
 // 8: Error       - Lights up if something goes wrong (use red if that makes sense)
 // 7: Programming - In communication with the slave
 //
-// This can Program AVR'S
 #include "pins_arduino.h"
 #define RESET     SS
 
